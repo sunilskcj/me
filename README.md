@@ -19,7 +19,7 @@ Last synced: 2026-06-21.
 
 I build AI systems that reason about code, architecture, and engineering knowledge. My work sits at the intersection of knowledge graphs, GraphRAG retrieval, multi-agent orchestration, and the developer surfaces that put those capabilities in front of engineers at the moment they need them.
 
-I build production systems, not demos. Each project in the [Lab](https://sunilskcj.in/lab) starts as a research hypothesis, graduates to a working prototype, and ships when the architecture earns the right to be used by other engineers.
+I build products, architecture platforms, and engineering systems focused on AI-assisted software development, knowledge graphs, and GraphRAG.
 
 ---
 
@@ -42,13 +42,22 @@ I build production systems, not demos. Each project in the [Lab](https://sunilsk
 
 ---
 
+## What I'm building
+
+- **Repository Intelligence** — knowledge-graph construction from source code, with GraphRAG as the retrieval layer over the graph.
+- **Knowledge Graph Platforms** — cross-repository intelligence that connects services, documentation, and architecture decisions into a single queryable layer.
+- **Multi-Agent Engineering Systems** — coordinated agents for PR review, code navigation, and architecture reasoning, sharing retrieval but specializing in reasoning.
+- **AI-Assisted Developer Tooling** — surfaces and APIs that put architectural context in front of engineers at the moment they need it.
+
+---
+
 ## Current projects
 
-### Shipped / active
+### In development
 
 | Project | Stage | Description |
 | --- | --- | --- |
-| [Repo Intelligence Platform](https://sunilskcj.in/architectures/repo-intelligence) | Active | Repository analysis platform that generates code knowledge graphs and enables GraphRAG exploration. 7-stage pipeline from source files to grounded answers. |
+| [Repo Intelligence Platform](https://sunilskcj.in/architectures/repo-intelligence) | Active · in development | Repository analysis platform that generates code knowledge graphs and enables GraphRAG exploration. 7-stage pipeline from source files to grounded answers. |
 | [Multi-Agent PR Review System](https://sunilskcj.in/architectures/multi-agent-pr-review) | Building | Coordinated agents that review pull requests for architecture consistency, dependency impact, test coverage, and historical context. |
 | [SearchHome](https://sunilskcj.in/applications/searchhome) | Live | Real-estate search experience that turns open-ended lifestyle goals into structured property matches. Indexes listings, learns preferences from conversational refinement. |
 | [Praodic](https://sunilskcj.in/applications/praodic) | Live | Architectural project collaboration platform for a Tirukoilur design and build firm. One product that runs the public brand surface, the internal project workflow, and the external client and contractor review loop. |
@@ -61,6 +70,17 @@ I build production systems, not demos. Each project in the [Lab](https://sunilsk
 | AI Video Factory | Experiment | End-to-end pipeline for script generation, voice synthesis, video assembly, and publishing. Short-form technical content with human-in-the-loop review. |
 
 Source repos are not yet public. Case studies, architecture diagrams, and screenshots are at [sunilskcj.in/architectures](https://sunilskcj.in/architectures).
+
+---
+
+## Featured repositories
+
+| Repository | Status | Notes |
+| --- | --- | --- |
+| `sunilskcj/repo-intelligence` | Currently private · public repository coming later | Architecture case study and a worked 7-stage pipeline. Source under active development. |
+| `sunilskcj/multi-agent-pr-review` | Currently private · public repository coming later | Coordinated agent implementation and orchestration patterns. |
+| `sunilskcj/unified-knowledge-graph` | Currently private · public repository coming later | Cross-repository graph schema, evaluation methodology, and design notes. |
+| [`sunilskcj/port`](https://github.com/sunilskcj/port) | Public | This portfolio site. Next.js 15 + React 19 + TypeScript 5 + Tailwind 3, static-exported, Firebase Hosting. |
 
 ---
 
@@ -85,23 +105,13 @@ Notes and working drafts at [sunilskcj.in/research](https://sunilskcj.in/researc
 
 ---
 
-## Career
-
-- **2026** — Architecture-first AI engineering. Repo Intelligence Platform shipped. Unified Knowledge Graph and Multi-Agent PR Review in design.
-- **2025** — AI engineering transition. Built and shipped the AI Video Factory pipeline end-to-end.
-- **Earlier** — Software engineering foundation. Backend systems, infrastructure, and developer tooling. The path that made the AI work possible.
-
----
-
 ## Contact
-
-The fastest way to reach me:
 
 - **Email** — [sunilskcj@gmail.com](mailto:sunilskcj@gmail.com)
 - **LinkedIn** — [linkedin.com/in/sunilskcj](https://www.linkedin.com/in/sunilskcj)
 - **Portfolio** — [sunilskcj.in](https://sunilskcj.in)
 
-Open to senior and staff AI engineering roles, and to short-form consulting on GraphRAG and agent-system architecture.
+Interested in conversations around AI engineering, GraphRAG, knowledge graphs, developer tooling, and engineering intelligence systems.
 
 ---
 
