@@ -21,6 +21,8 @@ I build AI systems that reason about code, architecture, and engineering knowled
 
 I build products, architecture platforms, and engineering systems focused on AI-assisted software development, knowledge graphs, and GraphRAG.
 
+Currently focused on repository intelligence, knowledge graphs, GraphRAG, and AI-assisted engineering workflows.
+
 ---
 
 ## Focus areas
@@ -53,11 +55,11 @@ I build products, architecture platforms, and engineering systems focused on AI-
 
 ## Current projects
 
-### In development
+### Active projects
 
 | Project | Stage | Description |
 | --- | --- | --- |
-| [Repo Intelligence Platform](https://sunilskcj.in/architectures/repo-intelligence) | Active · in development | Repository analysis platform that generates code knowledge graphs and enables GraphRAG exploration. 7-stage pipeline from source files to grounded answers. |
+| [Repo Intelligence Platform](https://sunilskcj.in/architectures/repo-intelligence) | Active · in development | Repository analysis platform that generates code knowledge graphs and enables GraphRAG exploration. |
 | [Multi-Agent PR Review System](https://sunilskcj.in/architectures/multi-agent-pr-review) | Building | Coordinated agents that review pull requests for architecture consistency, dependency impact, test coverage, and historical context. |
 | [SearchHome](https://sunilskcj.in/applications/searchhome) | Live | Real-estate search experience that turns open-ended lifestyle goals into structured property matches. Indexes listings, learns preferences from conversational refinement. |
 | [Praodic](https://sunilskcj.in/applications/praodic) | Live | Architectural project collaboration platform for a Tirukoilur design and build firm. One product that runs the public brand surface, the internal project workflow, and the external client and contractor review loop. |
@@ -77,10 +79,10 @@ Source repos are not yet public. Case studies, architecture diagrams, and screen
 
 | Repository | Status | Notes |
 | --- | --- | --- |
-| `sunilskcj/repo-intelligence` | Currently private · public repository coming later | Architecture case study and a worked 7-stage pipeline. Source under active development. |
+| `sunilskcj/repo-intelligence` | Currently private · public repository coming later | Architecture case study and source under active development. |
 | `sunilskcj/multi-agent-pr-review` | Currently private · public repository coming later | Coordinated agent implementation and orchestration patterns. |
 | `sunilskcj/unified-knowledge-graph` | Currently private · public repository coming later | Cross-repository graph schema, evaluation methodology, and design notes. |
-| [`sunilskcj/port`](https://github.com/sunilskcj/port) | Public | This portfolio site. Next.js 15 + React 19 + TypeScript 5 + Tailwind 3, static-exported, Firebase Hosting. |
+| `sunilskcj/port` | Currently private · public repository coming later | This portfolio site source. Next.js 15 + React 19 + TypeScript 5 + Tailwind 3, static-exported, Firebase Hosting. Deployed at [sunilskcj.in](https://sunilskcj.in). |
 
 ---
 
@@ -101,7 +103,7 @@ Source repos are not yet public. Case studies, architecture diagrams, and screen
 - Context engineering over prompt engineering. The shape of the context window matters more than clever prompting; the leverage is in what the agent sees, not what it is told.
 - Knowledge-graph evaluation methodologies that hold up outside toy corpora — particularly for code, where the graph is dense and ground truth is partial.
 
-Notes and working drafts at [sunilskcj.in/research](https://sunilskcj.in/research) when they are ready to share publicly.
+Research notes and working drafts are published selectively when they are ready for public review.
 
 ---
 
